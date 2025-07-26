@@ -1,16 +1,29 @@
-## Hi there 👋
+<p align="center"><strong>My favorites of text editors</strong></p>
 
-<!--
-**networkluki/networkluki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  
+![Atom](https://badgen.net/badge/Editor/Atom)
+![VisualStudioCode](https://badgen.net/badge/Editor/VisualSCode)
+![Notepad++](https://badgen.net/badge/Editor/Notepad++)
+![nano](https://badgen.net/badge/Editor/Nano)
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center"><strong>Do different projects in</strong></p>
+
+<div align="center">
+  
+![LinuxBash](https://badgen.net/badge/Linux/Bash)
+![CodePython](https://badgen.net/badge/Code/Python)
+![CodePHP](https://badgen.net/badge/Code/PHP)
+![CodeJavaScript](https://badgen.net/badge/Code/JavaScript)
+![Codehtml](https://badgen.net/badge/Code/html)
+![Codecss](https://badgen.net/badge/Code/css)
+
+</div>
+<hr>
+<div align="center">
+<img src="https://icloudsecurity.github.io/img-Createdbyalexander/logo.jpg">
+</div>
+
+<p align="center">"Code is passion. Creation is art." – Nixton Cipher</p>
