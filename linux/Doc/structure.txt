@@ -1,0 +1,17 @@
+Vanliga mappar i Linux och vad de används till:
+- / (root): Roten för hela filsystemet. Alla mappar och filer utgår härifrån.
+- /bin: Grundläggande kommandon och program som behövs för systemet (t.ex. ls, cp, mv).
+- /sbin: Systemadministrationsverktyg (t.ex. fsck, ip, reboot).
+- /etc: Systemets konfigurationsfiler.
+- /home: Användarnas hemmappar med personliga filer och inställningar.
+- /root: Hemmapp för root-användaren.
+- /var: Filer som ändras ofta, t.ex. loggar och köer.
+- /tmp: Tillfälliga filer som kan rensas.
+- /usr: Program och bibliotek för användare, t.ex. /usr/bin och /usr/lib.
+- /lib: Delade bibliotek som används av program i /bin och /sbin.
+- /opt: Tilläggsprogram från tredjepart.
+- /dev: Enhetsfiler som representerar hårdvara (t.ex. diskar och USB).
+- /proc: Virtuellt filsystem med information om processer och kernel.
+- /sys: Information om kernel och hårdvara, används av systemverktyg.
+- /media: Monteringspunkter för flyttbara media (t.ex. USB-minnen).
+- /mnt: Tillfälliga monteringspunkter.
