@@ -1,0 +1,12 @@
+Linux är ett operativsystem som används för servrar, datorer, utveckling och inbyggda enheter. Man använder Linux för att det är stabilt, säkert, flexibelt och ofta gratis samt har stort community-stöd.
+
+Hur man använder Linux:
+- Installera en distribution (t.ex. Ubuntu, Debian eller Fedora) på en dator eller virtuell maskin.
+- Logga in i skrivbordsmiljön eller använd terminalen för att köra kommandon.
+- Hantera filer och mappar, installera program med paketverktyg (t.ex. apt eller dnf) och konfigurera systemet.
+
+Varför Linux används:
+- Pålitlighet och stabilitet för långvarig drift.
+- Säkerhet med snabba uppdateringar och öppen källkod.
+- Frihet att anpassa och skräddarsy systemet efter behov.
+- Brett stöd för utveckling, servrar, moln och containerteknik.
