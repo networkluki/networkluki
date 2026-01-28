@@ -1,5 +1,7 @@
 <p>
 <img alt="Linux Debian" src="https://img.shields.io/badge/Linux-Debian-red?style=flat&logo=debian&logoColor=white">
+<img alt="Linux Ubuntu" src="https://img.shields.io/badge/Linux-Ubuntu-red?style=flat&logo=ubuntu&logoColor=white">
+<img alt="Linux Arch" src="https://img.shields.io/badge/Linux-Arch%20Linux-red?style=flat&logo=archlinux&logoColor=white">
 <img alt="Code Bash" src="https://img.shields.io/badge/Code-Bash-blue?style=flat&logo=gnu-bash&logoColor=white">
 <img alt="Code Python" src="https://img.shields.io/badge/Code-Python-blue?style=flat&logo=python&logoColor=white">
 <img alt="Database MariaDB" src="https://img.shields.io/badge/Database-MariaDB-blue?style=flat&logo=mariadb&logoColor=white">
