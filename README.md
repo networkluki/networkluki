@@ -1,4 +1,6 @@
 <img alt="Static Badge" src="https://img.shields.io/badge/Linux-Debian-red">
+<img alt="Static Badge" src="https://img.shields.io/badge/Code-Bash-blue">
+<img alt="Static Badge" src="https://img.shields.io/badge/Code-Python-blue">
 
 <img src="networkluki.png">
 💡-🧪 -🖥️ -🔍 
