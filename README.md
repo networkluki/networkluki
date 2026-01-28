@@ -1,6 +1,6 @@
-<img alt="Static Badge" src="https://img.shields.io/badge/Linux-Debian-red">
-<img alt="Static Badge" src="https://img.shields.io/badge/Code-Bash-blue">
-<img alt="Static Badge" src="https://img.shields.io/badge/Code-Python-blue">
+<img alt="Linux Debian" src="https://img.shields.io/badge/Linux-Debian-red?style=flat&logo=debian&logoColor=white">
+<img alt="Code Bash" src="https://img.shields.io/badge/Code-Bash-blue?style=flat&logo=gnu-bash&logoColor=white">
+<img alt="Code Python" src="https://img.shields.io/badge/Code-Python-blue?style=flat&logo=python&logoColor=white">
 
 <img src="networkluki.png">
 💡-🧪 -🖥️ -🔍 
