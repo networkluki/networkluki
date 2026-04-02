@@ -16,5 +16,5 @@
 <img alt="Runtime Node.js" src="https://img.shields.io/badge/Runtime-Node.js-blue?style=flat&logo=node.js&logoColor=white">
 </p>
 <img src="networkluki.png">
-💡-🧪 -🖥️ -🔍 
-I love the internet world and technology and like building and developing things, my big passion in life.
+
+ETH: 0x099E6d81aBDC004a782a502e0a33B11369043494
