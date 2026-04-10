@@ -15,7 +15,6 @@
 <img alt="Tool NPM" src="https://img.shields.io/badge/Tool-NPM-blue?style=flat&logo=npm&logoColor=white">
 <img alt="Runtime Node.js" src="https://img.shields.io/badge/Runtime-Node.js-blue?style=flat&logo=node.js&logoColor=white">
 </p>
-<img src="networkluki.png">
 
 <p align="center">
   <a href="https://etherscan.io/address/0x099E6d81aBDC004a782a502e0a33B11369043494" target="_blank">
