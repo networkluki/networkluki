@@ -94,4 +94,3 @@ Debian Servers
 * [Website](https://networkluki.com)
 * [theinfo.nu](https://theinfo.nu)
 * [ipconfig.se](https://ipconfig.se)
-* [GitHub](https://github.com/networkluki)
