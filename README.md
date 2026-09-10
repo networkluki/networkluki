@@ -91,6 +91,4 @@ Debian Servers
 
 ## 🌐 Links
 
-* [Website](https://networkluki.com)
-* [theinfo.nu](https://theinfo.nu)
-* [ipconfig.se](https://ipconfig.se)
+* [Who](https://lukihackwell.com)
