@@ -2,7 +2,7 @@
 
 **Developer • Sysadmin • Security enthusiast • Self-hosting everything**
 
-Self-taught Developer • DevOps • Linux • Security
+Self-taught Developer • DevOps • Linux • Security • Hacker
 
 > Building, breaking, hardening, automating.
 
