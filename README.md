@@ -1,5 +1,3 @@
-# NetworkLuki
-
 ## 💭 Quotes
 
 > **“My world: You can be anything you want. If you don’t believe you can, you can always switch to a new world.”**
@@ -7,6 +5,8 @@
 > **“Life itself is like an academic education. We are always learning.”**
 
 > **“Everyone stands on the same level. Everyone is intelligent, and everyone is unique in their own way.”**
+
+# NetworkLuki
 
 **Developer • Sysadmin • Security enthusiast • Self-hosting everything**
 
