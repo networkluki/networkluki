@@ -42,10 +42,12 @@ MariaDB • SQLite
 
 ## 🚀 Projects
 
+Coming soon
 ### [theinfo.nu](https://theinfo.nu)
 
 Research, information, web analysis, and data exploration tools.
 
+Coming soon
 ### [ipconfig.se](https://ipconfig.se)
 
 Network, HTTP, DNS, privacy, and diagnostic utilities.
