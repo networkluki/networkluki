@@ -1,6 +1,6 @@
 ## ⚖️ Things I hate
 
-> **“The state”**
+> **“The state”** - should be improved!
 
 >  **“Weak security”**
 
