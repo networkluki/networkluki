@@ -42,19 +42,7 @@ MariaDB • SQLite
 
 ## 🚀 Projects
 
-Coming soon
-### [theinfo.nu](https://theinfo.nu)
-
-Research, information, web analysis, and data exploration tools.
-
-Coming soon
-### [ipconfig.se](https://ipconfig.se)
-
-Network, HTTP, DNS, privacy, and diagnostic utilities.
-
-### [networkluki.com](https://networkluki.com)
-
-Development, infrastructure, self-hosted services, and experimental projects.
+https://github.com/networkluki/projects/blob/main/README.md
 
 ## 🛡 Security Philosophy
 
