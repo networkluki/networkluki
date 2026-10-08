@@ -1,6 +1,7 @@
 ## ⚖️ Things I hate
 
 > **“The state”**
+
 > **“The world is becoming increasingly harsh, and the social climate is getting worse and worse.”**
 
 ## 💭 Quotes
