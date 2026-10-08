@@ -2,6 +2,8 @@
 
 > **“The state”**
 
+>  **“Weak security”**
+
 > **“The world is becoming increasingly harsh, and the social climate is getting worse and worse.”**
 
 ## 💭 Quotes
