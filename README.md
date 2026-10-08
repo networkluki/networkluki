@@ -1,3 +1,8 @@
+## ⚖️ Things I hate
+
+> **“The state”**
+> **“The world is becoming increasingly harsh, and the social climate is getting worse and worse.”**
+
 ## 💭 Quotes
 
 > **“My world: You can be anything you want. If you don’t believe you can, you can always switch to a new world.”**
