@@ -27,7 +27,15 @@ I enjoy building self-hosted services, developer tools, network utilities, autom
 
 Explore my projects and development work:
 
-**[📂 NetworkLuki Projects](https://github.com/networkluki/projects/blob/main/README.md)**
+**[📂 Networkluki IT ](https://www.networkluki.com/)**
+
+**[📂 Web Codes ](https://webcodes.dev/)**
+
+**[📂 Bitosx - Your security ](https://bitosx.se/)**
+
+**[📂 The Info Network Research ](https://theinfo.nu/)**
+
+**[📂 What Is My IP Address? ](https://ipconfig.se/)**
 
 ## 🛡 Security Philosophy
 
