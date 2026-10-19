@@ -8,20 +8,7 @@ Self-taught Developer • DevOps • Linux • Security • Hacker
 
 ## 👋 About
 
-I'm a self-taught developer and sysadmin focused on Linux, backend development, infrastructure, automation, and defensive security.
-
-I enjoy building self-hosted services, developer tools, network utilities, automation systems, and security-focused projects.
-
-## 🔧 Tech Stack
-
-| Area | Technologies |
-| --- | --- |
-| **Linux** | Debian • Arch Linux |
-| **Backend** | PHP • Python • Go |
-| **Web** | Apache • REST APIs |
-| **Security** | nftables • Fail2ban • ModSecurity |
-| **DevOps** | Docker • systemd • Git • Bash |
-| **Databases** | MariaDB • SQLite |
+Self-taught developer working with Linux, backend systems, automation, infrastructure and defensive security.
 
 ## 🚀 Projects
 
@@ -36,49 +23,6 @@ Explore my projects and development work:
 **[📂 The Info Network Research ](https://theinfo.nu/)**
 
 **[📂 What Is My IP Address? ](https://ipconfig.se/)**
-
-## 🛡 Security Philosophy
-
-- Assume the Internet is hostile
-- Least privilege by default
-- Validate all external input server-side
-- Prefer allowlists over blocklists
-- Fail closed
-- Treat logs as evidence
-- Automate defensively
-- Minimize exposed attack surface
-
-## 🧪 Currently Building
-
-- Linux CLI and system tools
-- Server automation
-- Log analysis tools
-- Security monitoring
-- AI-assisted DevOps workflows
-- Self-hosted services
-- Network and web utilities
-
-## 🖥 Infrastructure
-
-```text
-Debian Servers
-├── Apache
-├── PHP / Python
-├── MariaDB
-├── Docker
-├── systemd
-├── nftables
-├── Fail2ban
-├── ModSecurity
-└── Monitoring
-```
-
-## 📦 Featured Project Areas
-
-- **System Tools** — Linux administration and system utilities
-- **Security Tools** — Defensive security and analysis tools
-- **Server Automation** — Infrastructure and server automation
-- **Web Projects** — Backend and web applications
 
 ## ❤️ Support My Work
 
@@ -102,7 +46,6 @@ Thank you for supporting independent development and open-source software!
 ## 🌐 Links
 
 - [Personal Developer Site](https://lukihackwell.com)
-- [GitHub Projects](https://github.com/networkluki/projects)
 
 ## 💭 Quotes
 
