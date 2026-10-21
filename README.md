@@ -10,7 +10,7 @@ Self-taught Developer • DevOps • Linux • Security • Hacker
 
 Self-taught developer working with Linux, backend systems, automation, infrastructure and defensive security.
 
-## 🚀 Projects
+## 🚀 Projects & Portfolio
 
 Explore my projects and development work:
 
