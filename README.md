@@ -1,5 +1,8 @@
 # NetworkLuki
 
+**[Changelog / Release History](CHANGELOG.md)**
+
+
 **Developer • Sysadmin • Security Enthusiast • Self-Hosting**
 
 Self-taught Developer • DevOps • Linux • Security • Hacker
