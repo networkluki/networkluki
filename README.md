@@ -19,8 +19,6 @@ Explore my projects and development work:
 
 **[📂 Networkluki IT ](https://www.networkluki.com/)**
 
-**[📂 Web Codes ](https://webcodes.dev/)**
-
 **[📂 Bitosx - Your security ](https://bitosx.se/)**
 
 **[📂 The Info Network Research ](https://theinfo.nu/)**
